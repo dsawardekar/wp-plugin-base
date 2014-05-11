@@ -1,0 +1,10 @@
+{
+  "lib/WpPluginBase/*.php": {
+    "type": "library",
+    "test": "test/WpPluginBase/%sTest.php"
+  },
+  "test/WpPluginBase/*Test.php": {
+    "type": "test",
+    "alternate": "test/WpPluginBase/%s.php"
+  }
+}
