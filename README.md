@@ -5,7 +5,7 @@ Base for WordPress Plugins.
 # Features
 
 * PluginMeta which automatically figures out defaults for typical
-  wordpress things like Plugin Dir, Slug, Menu Slug, Option Key, etc.
+  WordPress things like Plugin Dir, Slug, Menu Slug, Option Key, etc.
 
 # Usage
 
