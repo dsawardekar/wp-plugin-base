@@ -1,10 +1,10 @@
 {
-  "name": "dsawardekar/wp-requirements",
+  "name": "dsawardekar/wp-plugin-base",
   "version": "0.1.0",
   "type": "library",
-  "description": "Library for handling minimum system requirements in WordPress Plugins",
-  "keywords": ["wordpress","system requirements", "minimum"],
-  "homepage": "http://github.com/dsawardekar/wp-requirements",
+  "description": "WordPress Plugin Base",
+  "keywords": ["wordpress","base", "wordpress plugin"],
+  "homepage": "http://github.com/dsawardekar/wp-plugin-base",
   "license": "MIT",
   "authors": [
     {
