@@ -2,6 +2,9 @@
 
 Base for WordPress Plugins.
 
+Deprecated. This repo has been merged into
+[Arrow](https://github.com/dsawardekar/arrow).
+
 # Features
 
 * PluginMeta which automatically figures out defaults for typical
